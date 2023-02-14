@@ -9,4 +9,5 @@ Random, LRU, Pseudo-LRU.
 - The simulator computes the number of Cache reads, writes, Hit rate, Misses and the evicted dirty blocks.
 
 Cache simulator program -> CS2610_A6_cache_simulator.cpp
+
 Scalar pipelined processor -> CS2610_A8_scalar_pipelined.cpp
